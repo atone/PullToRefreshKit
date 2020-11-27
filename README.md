@@ -63,10 +63,10 @@ UITableView/UICollectionView/UIScrollView/UIWebView
 Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/LeoMobileDeveloper/PullToRefreshKit.git",  from: "0.8.9")
+.package(url: "https://github.com/atone/PullToRefreshKit.git",  from: "0.9.0")
 ```
 
-## Useage
+## Usage
 
 > What is a container?
 > A container is the object that hold the scrollView reference, most time it is a UIViewController object
@@ -206,9 +206,13 @@ For exmaple,to create a custom header
 ```
 
 
-## Author
+## Original Author
 
 Leo, leomobiledeveloper@gmail.com
+
+## Original Github Repository
+
+https://github.com/LeoMobileDeveloper/PullToRefreshKit
 
 ## License
 
